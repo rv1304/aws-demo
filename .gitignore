@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+Thumbs.db
+
+# Frontend build
+Frontend/node_modules/
+Frontend/build/
+Frontend/dist/
+Frontend/.next/
+Frontend/.vite/
+
+# IDEs
+.vscode/
+.idea/
+
+# Coverage
+coverage/
